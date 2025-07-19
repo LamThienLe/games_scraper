@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore environment variables and config
+.env
+config.py
+
+# Ignore data directory
+/data/ 
