@@ -4,6 +4,8 @@
 # Ignore environment variables and config
 .env
 config.py
-
+games_config.py
+sort_csv.sh
 # Ignore data directory
 /data/ 
+html_activeplayer
